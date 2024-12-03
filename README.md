@@ -26,3 +26,15 @@ The following modules are used in this project:
 
 - [Roboflow Football Dataset](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1)
 - [Sample Input Video from kaggle Dataset](https://drive.google.com/file/d/1lcVC7bk8ErCURDbmS0vL3p22dcJSFO1-/view?usp=sharing)
+
+## Requirements
+
+To run this project, you need to have the following requirements installed:
+
+-Python 3.x
+-ultralytics
+-supervision
+-OpenCV
+-NumPy
+-Matplotlib
+-Pandas
