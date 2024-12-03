@@ -31,10 +31,10 @@ The following modules are used in this project:
 
 To run this project, you need to have the following requirements installed:
 
--Python 3.x
--ultralytics
--supervision
--OpenCV
--NumPy
--Matplotlib
--Pandas
+- Python 3.x
+- ultralytics
+- supervision
+- OpenCV
+- NumPy
+- Matplotlib
+- Pandas
