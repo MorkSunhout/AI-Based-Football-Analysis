@@ -7,3 +7,13 @@ In addition to object detection, the project will utilize K-means clustering for
 The project will also incorporate optical flow techniques to track the movement of players by measuring camera motion between consecutive frames. To better quantify player movement in real-world terms, we will apply perspective transformation, converting the image’s coordinates from pixels to meters. This transformation will enable precise tracking of a player's speed and the distance they cover throughout the match.
 
 ![Screenshot](output_videos/screenshot.png)
+
+## Modules Used
+
+The following modules are used in this project:
+
+- **YOLO**: AI object detection model
+- **Kmeans**: Pixel segmentation and clustering to detect t-shirt color
+- **Optical Flow**: Measure camera movement
+- **Perspective Transformation**: Represent scene depth and perspective
+- **Speed and distance calculation per player**: Measure player's speed and distance covered
