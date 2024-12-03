@@ -17,3 +17,7 @@ The following modules are used in this project:
 - **Optical Flow**: Measure camera movement
 - **Perspective Transformation**: Represent scene depth and perspective
 - **Speed and distance calculation per player**: Measure player's speed and distance covered
+
+## Trained models
+
+- [Trained YOLO v5](https://drive.google.com/file/d/16IqbDw6ibE_-soz1vv1CzlfJpEKzFSpX/view?usp=sharing)
