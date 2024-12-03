@@ -21,3 +21,8 @@ The following modules are used in this project:
 ## Trained models
 
 - [Trained YOLO v5](https://drive.google.com/file/d/16IqbDw6ibE_-soz1vv1CzlfJpEKzFSpX/view?usp=sharing)
+
+## Datasets
+
+- [Roboflow Football Dataset](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1)
+- [Sample Input Video from kaggle Dataset](https://drive.google.com/file/d/1lcVC7bk8ErCURDbmS0vL3p22dcJSFO1-/view?usp=sharing)
