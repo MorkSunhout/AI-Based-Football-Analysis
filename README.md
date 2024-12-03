@@ -6,3 +6,4 @@ In addition to object detection, the project will utilize K-means clustering for
 
 The project will also incorporate optical flow techniques to track the movement of players by measuring camera motion between consecutive frames. To better quantify player movement in real-world terms, we will apply perspective transformation, converting the image’s coordinates from pixels to meters. This transformation will enable precise tracking of a player's speed and the distance they cover throughout the match.
 
+![Screenshot](output_videos/screenshot.png)
